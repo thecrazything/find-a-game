@@ -1,0 +1,11 @@
+{
+  "name": "find-a-game-server",
+  "version": "0.1.0",
+  "description": "Server for the Find-A-Game service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joakim Bostrom",
+  "license": "MIT"
+}
